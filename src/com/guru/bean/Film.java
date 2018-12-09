@@ -19,6 +19,7 @@ public class Film {
 		return description;
 	}
 	public void setDescription(String description) {
+		//what is this
 		this.description = description;
 	}
 	public Date getReleaseYear() {
